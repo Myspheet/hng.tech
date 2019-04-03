@@ -106,15 +106,15 @@
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
            <div class="intern-block border-blue">
-     					<img src="../app/img/about-talent.png" alt="">
-     					  <h6>Mark Essien</h6>
-                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     					<img src="../app/img/myspheet.png" style="border-radius:50%" width="100" alt="">
+     					  <h6>Promise Oghenevwefe</h6>
+                 <p>Full Stack Developer</p>
                  <ul class="list">
-                 <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 <li><a href="https://twitter.com/myspheet" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://github.com/Myspheet" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://medium.com/@myspheet#" target="h_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="#" class="btn-view">view profile</a>
+     					    <a href="/interns/myspheet" class="btn-view">view profile</a>
      				</div>
      			</div>
      		</div>
